@@ -1,0 +1,8 @@
+{
+  "name": "Remix: service my car",
+  "description": "برنامه مدیریت سرویس‌ها و نگهداری خودروهای من با قابلیت ثبت تاریخچه سرویس‌ها، فیلتر و شخصی‌سازی رنگ هر خودرو",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
